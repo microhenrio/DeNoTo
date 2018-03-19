@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Abel.OFICINAS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_67267135166fe4b8678aacb4de61ce7d23dd9495\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_feb4e7e560daaf33498205d4568216873988615a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_7cb35bd7a57c12392fdd06cd51d4e3e6e01255a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_4e8c191c54d11fdbfed66d3b520e1cc68f256b2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_5a2a21c102f5c2610f3de0984d6a4737f7e308b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8f43a84b031a54a27b31251084a5bd55c522a08b">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0d85e2a78fc0c2bf4604f1684eccc99d7fe068b3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_9cad4b24091d343ef1b8e41eda64ec0a856c886c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_8754bf867770fc6881ded57be461300906bbb4ed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_6abb80626d5677f12f5287f5969ddb682d856404\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="36beaae1f68b6e89fd917d82d7b9ab12982ef7be">
+        <dex dex="C:\Users\Abel.OFICINAS\AndroidStudioProjects\DeNoTo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e61771809d5d0bb3f5dfdc444ef1612afffecfa6\classes.dex" />
+    </item>
+
+</items>

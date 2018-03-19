@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Abel.OFICINAS\\AndroidStudioProjects\\DeNoTo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scan_menu.xml",
+        "source": "C:\\Users\\Abel.OFICINAS\\AndroidStudioProjects\\DeNoTo\\app\\src\\main\\res\\menu\\scan_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abel.OFICINAS\\AndroidStudioProjects\\DeNoTo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\Abel.OFICINAS\\AndroidStudioProjects\\DeNoTo\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abel.OFICINAS\\AndroidStudioProjects\\DeNoTo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings_menu.xml",
+        "source": "C:\\Users\\Abel.OFICINAS\\AndroidStudioProjects\\DeNoTo\\app\\src\\main\\res\\menu\\settings_menu.xml"
+    }
+]
